@@ -18,7 +18,7 @@
 
 [log]
   development = true
-  level = -1
+  level = 1
 
 [server]
   graceful-shutdown = "15s"
