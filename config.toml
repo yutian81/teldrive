@@ -13,7 +13,7 @@
 
 [jwt]
   allowed-users = ["yutian81,yutian88881"]
-  secret = "3efc1d2d98a06e3b8ad9f02ae306339a3f1ebad7b915a22e8f9a3beba02b7f39"
+  secret = "abcabc********"
   session-time = "30d"
 
 [log]
@@ -27,8 +27,8 @@
   write-timeout = "1h"
 
 [tg]
-  app-hash = "7392546527"
-  app-id = "7244196831:AAHS6O9MDDOfJdHKPKagxcCxbeZBYbB_rlo"
+  app-hash = ""
+  app-id = ""
   app-version = "4.6.3 K"
   bg-bots-limit = 5
   device-model = "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0"
