@@ -27,8 +27,8 @@
   write-timeout = "1h"
 
 [tg]
-  app-hash = ""
-  app-id = 0
+  app-hash = "7392546527"
+  app-id = 7244196831:AAHS6O9MDDOfJdHKPKagxcCxbeZBYbB_rlo
   app-version = "4.6.3 K"
   bg-bots-limit = 5
   device-model = "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0"
@@ -50,4 +50,3 @@
   [tg.stream]
     multi-threads = 0
     buffers = 8
-
