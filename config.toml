@@ -12,8 +12,8 @@
   enable = true
 
 [jwt]
-  allowed-users = [""]
-  secret = ""
+  allowed-users = ["yutian81,yutian88881"]
+  secret = "3efc1d2d98a06e3b8ad9f02ae306339a3f1ebad7b915a22e8f9a3beba02b7f39"
   session-time = "30d"
 
 [log]
